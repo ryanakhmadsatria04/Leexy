@@ -1,0 +1,19 @@
+Welcome to Cloud Shell! Type "help" to get started.
+
+Your Cloud Platform project in this session is set to coral-pipe-436702-g4.
+
+Use "gcloud config set project [PROJECT_ID]" to change to a different project.
+
+ryanakhmadsatria04@cloudshell: (coral-pipe-436702-g4)$ nano latihan2.sh
+
+ryanakhmadsatria04@cloudshell: (coral-pipe-436702-g4)$ cat latihan2.sh
+
+#!/bin/bash
+
+Nama "Ryan Akhmad Satria" Nim=2402079 saya_login_sebagai.siapa 'Ryan
+
+echo "Ryan Akhmad Satria: echo 2402079:"
+
+echo "Ryan:"
+
+ryanakhmadsatria04@cloudshell: (coral-pipe-436702-g4)$
