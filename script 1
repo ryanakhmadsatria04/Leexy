@@ -1,0 +1,19 @@
+Welcome to Cloud Shell! Type "help" to get started.
+
+Your Cloud Platform project in this session is set to coral-pipe-436702-g4.
+
+Use "gcloud config set project [PROJECT_ID]" to change to a different project.
+
+ryanakhmadsatria04@cloudshell: (coral-pipe-436702-g4)$ pwd
+
+/home/ryanakhmadsatria04
+
+ryanakhmadsatria04@cloudshell: (coral-pipe-436702-g4)$ nano hallo.sh
+
+ryanakhmadsatria04@cloudshell: (coral-pipe-436702-g4)$ chmod +x hello.sh
+
+ryanakhmadsatria04@cloudshell: (coral-pipe-436702-g4)$ ./hello.sh
+
+hello world!
+
+ryanakhmadsatria04@cloudshell: (coral-pipe-436702-g4)$
