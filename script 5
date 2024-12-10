@@ -1,0 +1,19 @@
+Welcome to Cloud Shell! Type "help" to get started.
+
+Your Cloud Platform project in this session is set to coral-pipe-436702-g4.
+
+Use "gcloud config set project [PROJECT ID]" to change to a different project.
+
+ryanakhmadsatria04@cloudshell: (coral-pipe-436702-g4)$ nano latihan4.sh
+
+ryanakhmadsatria04@cloudshell: (coral-pipe-436702-g4)$ cat latihan4.sh
+
+#!/bin/bash
+
+echo 'script untuk menerima input, penjumlahan dan perkalian" echo "==============================' echo "13:"
+
+read x echo 7:" read y jmlh expr tx ty kali expr tx ty echo 'hasil penjumlahan tx ty jmlh"
+
+echo "hasil perkalian tx ty kali
+
+ryanakhmadsatria04@cloudshell: (coral-pipe-436702-g4)$
