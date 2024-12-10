@@ -1,0 +1,27 @@
+Welcome to Cloud Shell! Type "help" to get started
+
+Your Cloud Platform project in this session is set to coral-pipe-436702-g4.
+
+Use "gcloud config set project [PROJECT_ID]" to change to a different project.
+
+ryanakhmadsatria04@cloudshell: (coral-pipe-436702-g4)$ nano latihan1.sh
+
+ryanakhmadsatria04@cloudshell: (coral-pipe-436702-g4)$ cat latihN
+
+cat: latihN: No such file or directory
+
+ryanakhmadsatria04@cloudshell: (coral-pipe-436702-g4)$ cat latihanl.sh
+
+#!/bin/bash
+
+echo "Buat direktori latihanscript dan file coba
+echo "============================"
+mkdir
+
+latihanscript cd
+
+latihanscript/
+
+touch coba
+
+ryanakhmadsatria04@cloudshell: (coral-pipe-436702-g4)$
