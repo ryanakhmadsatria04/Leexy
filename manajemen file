@@ -1,0 +1,33 @@
+ryanakhmadsatria04@cloudshell: (coral-pipe-436702-g4)$ touch datal.txt
+
+ryanakhmadsatria04@cloudshell: (coral-pipe-436702-g4)$ touch data2.txt
+
+ryanakhmadsatria04@cloudshell:
+
+(coral-pipe-436702-g4)$ mkdir backup
+
+mkdir: cannot create directory 'backup' File exists
+
+ryanakhmadsatria04@cloudshell: (coral-pipe-436702-g4)$ mv data2.txt backup
+
+ryanakhmadsatria04@cloudshell: (coral-pipe-436702-g4)$ ls -r
+
+tugas_sistem_operasi mydir
+
+hello.sh
+
+belajar
+
+sistem
+
+S
+
+mumet.py
+
+hallo.shy
+
+backup
+
+latihan4.sh f3
+
+arizki
