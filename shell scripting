@@ -1,0 +1,79 @@
+Welcome to Cloud Shell! Type 'help" to get started.
+
+Your Cloud Platform project in this session is set to coral-pipe-436702-g4.
+
+Use "geloud config set project (PROJECT ID)" to change to a different project. ryanakhmadsatria04@cloudshell: (coral-pipe-436702-84)5 touch script.sh
+
+ryanakhmadsatria04@cloudshell: (coral-pipe-436702-g4)$ chmod 700 script.sh
+
+ryanakhmadsatria04@cloudshell: (coral-pipe-436702-g4)5 1
+
+tugas sistem.operasi
+
+ryanakhmads
+
+sisten
+
+script.sh
+
+mydir
+
+mumet.py
+
+latihan2.sh
+
+hallo.shy
+
+datal.txt
+
+latihanl.sh f3
+
+bunga..terompet
+
+ariski
+
+akhmad
+
+kelas.log
+
+£2
+
+latihan3.sh
+
+hello.ah
+
+f1
+
+belajar
+
+hackup
+
+ak
+
+20240925 tugas.log
+
+README-cloudshell.txt
+
+latihand.sh
+
+cyan
+
+operasi
+
+cyanakhmadsatria04@cloudshell: (coral-pipe-436702-g4)$ touch info.system.sh
+
+ryanakhmadsatria04@cloudshell: (coral-pipe-436702-84) nano info system.sh
+
+ryanakhmadsatria04@cloudshell: (coral-pipe-436702-89)$ cat info.system.sh
+
+#!/bin/bash
+
+#menampilkan waktu saat ini
+
+echo wakth saat ini (date)
+
+@menampilkan nama pengguna yang sedang login
+
+echo total pengguna disk si sistem
+
+dfh| grep #menampilkan informasi disk yang digunakan
